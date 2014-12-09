@@ -46,10 +46,10 @@ En cas de non respect de la charte, la Direction Générale des Services se rés
 En cas de récidive, la résiliation de l'abonnement pourra être décidée.
 En cas d'utilisation abusive des moyens mis à disposition, la Direction Générale des Services pourra prendre toutes les mesures appropriées, y compris en refacturant certains coûts de communication.
 
-Nom :
-Prénom :
-Numéro d'abonnement :
-Type de terminal :
-Le bénéficiaire,
-Lu et approuvé
-Date :
+ * Nom :
+ * Prénom :
+ * Numéro d'abonnement :
+ * Type de terminal :
+ * Le bénéficiaire,
+ * Lu et approuvé
+ * Date :
