@@ -25,7 +25,7 @@ Dans le cas d'une utilisation à l'étranger, le bénéficiaire s'engage à un u
 La plupart des smartphones font fonctionner en permanence des applications non professionnelles (météo, cours de la bourse, informations ... ) qui se connectent régulièrement, sans intervention de l'utilisateur, à Internet. Il convient de désactiver ces services.
 
 ##Article 4 : Contrôle de l'utilisation des moyens mobiles
-Les abonnements souscrits par l'Université comprennent une facturation détaillée.
+Les abonnements souscrits par la collectivité comprennent une facturation détaillée.
 Les utilisateurs sont informés qu'en cas de dérives constatées, la collectivité se réserve le droit de contrôler les différents types d'usages et les pratiques.
 
 ##Article 5 : Entretien du matériel
@@ -35,7 +35,7 @@ En cas de changement de terminal pour cause de panne ou d'obsolescence, l'ancien
 Le pôle téléphonie de la DSI s'engage à configurer les terminaux en fonction des besoins des utilisateurs.
 
 ##Article 6 : Vol ou perte
-En cas de vol ou perte, le pôle téléphonie de la DSI doit être prévenu dans les meilleurs délais. Une copie de la déclaration de vol ou perte doit être transmise à la DAGJ.
+En cas de vol ou perte, le pôle téléphonie de la DSI doit être prévenu dans les meilleurs délais et une copie de la déclaration de vol ou perte doit lui être transmise.
 
 ##Article 7 : Restitution du matériel
 Le matériel de téléphonie mobile est la propriété de la collectivité. Il doit être restitué par le bénéficiaire au pôle téléphonie lorsque celui-ci quitte la collectivité ou change de fonctions.
